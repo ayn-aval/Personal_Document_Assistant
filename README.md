@@ -81,4 +81,3 @@ Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! 
 
 ---
 
-Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community!
