@@ -1,0 +1,9 @@
+[theme]
+# The pages force a white .block-container background, so the base theme must be
+# light — otherwise Streamlit renders its own near-white text on that white panel
+# and body copy becomes invisible.
+base = "light"
+primaryColor = "#118ab2"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f8ff"
+textColor = "#002B5B"
